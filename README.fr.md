@@ -55,8 +55,9 @@ L’objet complexe demandé est un avion construit à partir de plusieurs formes
 
 ```text
 .
-├── Viewer_etudiant.cpp
-├── Viewer_etudiant.h
+├── src/
+│   ├── Viewer_etudiant.h
+│   └── Viewer_etudiant.cpp
 ├── data/
 │   ├── terrain/
 │   ├── billboard/
