@@ -55,8 +55,9 @@ The required complex object is an aircraft built from several basic shapes, incl
 
 ```text
 .
-├── Viewer_etudiant.cpp
-├── Viewer_etudiant.h
+├── src/
+│   ├── Viewer_etudiant.h
+│   └── Viewer_etudiant.cpp
 ├── data/
 │   ├── terrain/
 │   ├── billboard/
